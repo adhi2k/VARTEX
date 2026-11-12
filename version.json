@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
+  "versionCode": 6,
+  "versionName": "1.0.5",
   "apkUrl": "https://github.com/adhi2k/VARTEX/releases/latest/download/VORTEX.apk",
-  "changelog": "• Complete VORTEX visual redesign\n• New premium red and gold interface\n• Updated launcher and branding\n• UI improvements\n• General stability improvements"
+  "changelog": "• Added Request Trial Key button (@Vortax_tamil_bot) on Login & Control Center\n• Streamlined Control Center dashboard layout\n• Updated to VORTEX v1.0.5\n• UI & stability improvements"
 }

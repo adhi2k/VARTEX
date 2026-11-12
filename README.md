@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/adhi2k/VARTEX/releases/latest/download/VORTEX.apk">
-    <img src="https://img.shields.io/badge/Download-VORTEX%20v1.0.4-dc2626?style=for-the-badge&logo=android&logoColor=white" alt="Download VORTEX APK" />
+    <img src="https://img.shields.io/badge/Download-VORTEX%20v1.0.5-dc2626?style=for-the-badge&logo=android&logoColor=white" alt="Download VORTEX APK" />
   </a>
   <a href="https://t.me/Vortax_tamil_bot?start=trial">
     <img src="https://img.shields.io/badge/Trial%20Key-Request%20via%20Bot-f59e0b?style=for-the-badge&logo=telegram&logoColor=black" alt="Request Trial Key" />
@@ -30,7 +30,7 @@
 
 **VORTEX** is a custom Android control center loader designed with a dark **crimson-and-gold interface**, providing a clean and centralized experience for managing supported application features and updates.
 
-> **Version:** `v1.0.4`  
+> **Version:** `v1.0.5`  
 > **Architecture:** `arm64-v8a`  
 > **Minimum Android:** Android 7.0+
 
@@ -40,7 +40,7 @@
 
 | Item | Details |
 | :--- | :--- |
-| **Latest Version** | `v1.0.4` |
+| **Latest Version** | `v1.0.5` |
 | **Architecture** | `arm64-v8a` |
 | **Minimum Android Version** | Android 7.0+ |
 | **APK Download** | [Download VORTEX.apk](https://github.com/adhi2k/VARTEX/releases/latest/download/VORTEX.apk) |
@@ -196,7 +196,7 @@ You can manage permissions through your Android device settings.
 
 ---
 
-## 🆕 What's New — v1.0.4
+## 🆕 What's New — v1.0.5
 
 - Complete **VORTEX crimson-and-gold visual redesign**
 - Updated launcher icon & splash screen
@@ -239,7 +239,7 @@ VORTEX should only be used with supported functionality and in accordance with t
 
 <p align="center">
 
-<strong>VORTEX v1.0.4</strong>
+<strong>VORTEX v1.0.5</strong>
 
 <br>
 
