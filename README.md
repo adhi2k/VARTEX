@@ -3,13 +3,8 @@
 </p>
 
 <h1 align="center">VORTEX</h1>
-
 <p align="center">
-  <strong> VORTEX • PREMIUM BGMI LOADER</strong>
-</p>
-
-<p align="center">
-  BGMI HACK • TAMIL BGMI HACK • Floating Interface
+  <strong>ENTER THE VORTEX • PREMIUM CONTROL CENTER</strong>
 </p>
 
 <p align="center">
@@ -17,248 +12,57 @@
     <img src="https://img.shields.io/badge/Download-VORTEX%20v1.0.4-dc2626?style=for-the-badge&logo=android&logoColor=white" alt="Download VORTEX APK" />
   </a>
   <a href="https://t.me/+TzeZYAS3I61hYjJl">
-    <img src="https://img.shields.io/badge/Access%20Key-Telegram-eab308?style=for-the-badge&logo=telegram&logoColor=black" alt="Get Access Key" />
+    <img src="https://img.shields.io/badge/Access%20Key-Buy%20on%20Telegram-eab308?style=for-the-badge&logo=telegram&logoColor=black" alt="Buy Access Key" />
   </a>
 </p>
 
 ---
 
-## ⚡ Overview
-
-**VORTEX** is a premium-style BGMI Hack loader for Android 
-
-Designed with a dark **crimson-and-gold interface**, VORTEX provides a clean and centralized experience for managing supported application features and services.
-
-> **Version:** `v1.0.4`  
-> **Architecture:** `arm64-v8a`  
-> **Minimum Android:** Android 7.0+
-
----
-
-## 📥 Download
+## Download
 
 | Item | Details |
 | :--- | :--- |
 | **Latest Version** | `v1.0.4` |
 | **Architecture** | `arm64-v8a` |
-| **Minimum Android Version** | Android 7.0+ |
-| **APK Download** | [Download VORTEX.apk](https://github.com/adhi2k/VARTEX/releases/latest/download/VORTEX.apk) |
-| **Release History** | [View GitHub Releases](https://github.com/adhi2k/VARTEX/releases) |
+| **Android Version** | Android 7.0+ |
+| **Direct APK** | [Download VORTEX.apk](https://github.com/adhi2k/VARTEX/releases/latest/download/VORTEX.apk) |
+| **All Releases** | [GitHub Releases](https://github.com/adhi2k/VARTEX/releases) |
 
 ---
 
-## 🔥 Features
+## Loader Features
 
-### 🔐 ACCESS KEY SYSTEM
-
-VORTEX includes a streamlined authentication portal.
-
-- Secure access-key entry screen
-- Access status display
-- Quick activation flow
-- Direct access to support and key services
+- **VORTEX Splash & Login Portal** — Dark crimson-and-gold splash screen and streamlined **ACCESS KEY** authentication card.
+- **Control Center Dashboard** — Clean scrollable interface featuring **Access Status**, **Access Window**, and **VORTEX System Info**.
+- **Floating Control Overlay** — Compact **VORTEX FLOAT** icon and **VORTEX MENU** overlay designed to stay minimal on screen.
+- **In-App Update Checker** — Tap **CHECK FOR UPDATES** inside the Control Center to automatically check for new APK releases from GitHub.
+- **Trial Key & Support Links** — Quick **REQUEST TRIAL KEY** (`@Vortax_tamil_bot`), **BUY ACCESS KEY**, and **TELEGRAM SUPPORT** buttons inside both Login and Control Center screens.
 
 ---
 
-### 🖥️ CONTROL CENTER
+## Getting Started
 
-A centralized dashboard designed for quick access to VORTEX information.
-
-- Access Status
-- Latest News
-- VORTEX System Information
-- Version Details
-- Expandable What's New section
-- Integrated navigation
+1. **Download** the latest [`VORTEX.apk`](https://github.com/adhi2k/VARTEX/releases/latest/download/VORTEX.apk).
+2. **Install** the APK on your Android (`arm64-v8a`) device (allow installation from your browser/file manager if prompted).
+3. **Grant Permissions** when requested (including **Display over other apps** for the floating overlay).
+4. **Enter Your Access Key** on the **VORTEX** login screen and tap **CONTINUE** to open the **Control Center**.
 
 ---
 
-### 🟡 VORTEX FLOAT
+## Access Keys & Support
 
-A compact floating interface designed to remain easily accessible.
+Don't have an access key yet or need assistance?
 
-- Minimal floating icon
-- Quick control access
-- Lightweight overlay design
-- Optimized screen presence
-
-> Overlay permission is required for floating interface functionality.
+- **Request Trial Key (Bot):** [Open @Vortax_tamil_bot](https://t.me/Vortax_tamil_bot?start=trial)
+- **Buy Key / Support:** [Join Official Telegram](https://t.me/+TzeZYAS3I61hYjJl)
 
 ---
 
-### 🔄 UPDATE CHECKER
+## What's New (`v1.0.4`)
 
-Stay updated directly from the application.
-
-The built-in update system can:
-
-- Check available GitHub releases
-- Detect newer versions
-- Display update availability
-- Direct users to the latest release
-
----
-
-### 📡 SUPPORT & ACCESS
-
-Quick links are available directly inside the application.
-
-- **BUY ACCESS KEY**
-- **TELEGRAM SUPPORT**
-- Community access
-- Update information
-
----
-
-## 🚀 Getting Started
-
-### 1. Download
-
-Download the latest **VORTEX.apk** from the official release page.
-
-### 2. Install
-
-Install the APK on a supported Android device.
-
-```text
-Architecture: arm64-v8a
-Android: 7.0 or higher
-```
-
-Your device may ask you to allow installation from your browser or file manager.
-
-### 3. Launch VORTEX
-
-Open the application after installation.
-
-The VORTEX splash screen will initialize before opening the authentication portal.
-
-### 4. Enter Access Key
-
-Enter your valid **Access Key**.
-
-Tap:
-
-```text
-CONTINUE
-```
-
-After successful authentication, the **VORTEX Control Center** will open.
-
-### 5. Grant Required Permissions
-
-If you want to use floating interface functionality, enable:
-
-```text
-Display over other apps
-```
-
-You can manage permissions through your Android device settings.
-
----
-
-## 🖼️ Interface
-
-```text
-┌──────────────────────────────┐
-│           VORTEX             │
-│                              │
-│      PREMIUM CONTROL         │
-│                              │
-│       [ ACCESS KEY ]         │
-│                              │
-│         CONTINUE             │
-│                              │
-│      BUY ACCESS KEY          │
-│      TELEGRAM SUPPORT        │
-└──────────────────────────────┘
-```
-
-### Control Center
-
-```text
-┌──────────────────────────────┐
-│          VORTEX              │
-├──────────────────────────────┤
-│ 🟢 ACCESS STATUS             │
-│                              │
-│ 📰 LATEST NEWS               │
-│                              │
-│ ⚙️ SYSTEM INFORMATION        │
-│                              │
-│ 📋 WHAT'S NEW                │
-│                              │
-│ 🔄 CHECK FOR UPDATES         │
-└──────────────────────────────┘
-```
-
----
-
-## 🆕 What's New — v1.0.4
-
-- Complete **VORTEX crimson-and-gold visual redesign**
-- Updated launcher icon
-- Updated splash screen
-- Redesigned Access Key portal
-- Improved Control Center interface
-- Added **Access Status** card
-- Added **Latest News** section
-- Added **VORTEX System Information**
-- Added expandable **What's New** section
-- Added GitHub-powered update checking
-- Added direct access-key support links
-- Added Telegram support access
-- Improved floating interface design
-- General UI improvements
-- Stability improvements
-
----
-
-## 🔗 Access & Support
-
-Need assistance or access information?
-
-### Official Community
-
-[![Telegram](https://img.shields.io/badge/Join-Telegram%20Community-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+TzeZYAS3I61hYjJl)
-
-Use the official Telegram community for:
-
-- Access information
-- Support
-- Update announcements
-- Community news
-
----
-
-## 📋 Requirements
-
-| Requirement | Supported |
-| :--- | :--- |
-| Android 7.0+ | ✅ |
-| arm64-v8a Device | ✅ |
-| Internet Connection | Recommended |
-| Overlay Permission | Required for floating UI |
-| Valid Access Key | Required for protected features |
-
----
-
-## ⚠️ Important
-
-VORTEX should only be used with supported functionality and in accordance with the terms, rules, and policies of any applications or services it interacts with.
-
----
-
-<p align="center">
-
-<strong>VORTEX v1.0.4</strong>
-
-<br>
-
-ENTER THE VORTEX • PREMIUM CONTROL CENTER
-
-<br><br>
-
-⭐ Star the repository to follow future releases.
-
-</p>
+- Complete **VORTEX** red and golden-yellow visual redesign
+- Updated launcher icon, splash screen, login card, and floating emblem
+- Added **Access Status** and **System Info** cards
+- Added GitHub-powered **Check for Updates** prompt
+- Added **Request Trial Key** (`@Vortax_tamil_bot`), **Buy Access Key**, and **Telegram Support** buttons
+- General UI and stability improvements
