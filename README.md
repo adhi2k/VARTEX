@@ -5,11 +5,11 @@
 <h1 align="center">VORTEX</h1>
 
 <p align="center">
-  <strong>ENTER THE VORTEX • PREMIUM CONTROL CENTER</strong>
+  <strong> VORTEX • PREMIUM BGMI LOADER</strong>
 </p>
 
 <p align="center">
-  Android Control Center • Access System • Floating Interface
+  BGMI HACK • TAMIL BGMI HACK • Floating Interface
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ## ⚡ Overview
 
-**VORTEX** is a premium-style Android control center featuring an access-key login system, floating interface, system dashboard, update checking, and integrated support access.
+**VORTEX** is a premium-style BGMI Hack loader for Android 
 
 Designed with a dark **crimson-and-gold interface**, VORTEX provides a clean and centralized experience for managing supported application features and services.
 
